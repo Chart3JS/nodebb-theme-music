@@ -1,18 +1,18 @@
 {
-  "name": "nodebb-theme-vanilla",
+  "name": "nodebb-theme-music",
   "version": "1.0.132",
-  "description": "Vanilla theme for NodeBB",
+  "description": "Music theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla"
+    "url": "https://github.com/NodeBB/nodebb-theme-music"
   },
   "keywords": [
     "nodebb",
     "theme",
     "themes",
     "bootstrap",
-    "vanilla"
+    "music"
   ],
   "contributors": [
     {
@@ -33,9 +33,9 @@
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla/issues"
+    "url": "https://github.com/Chart3JS/nodebb-theme-music/issues"
   },
-  "homepage": "https://github.com/NodeBB/nodebb-theme-vanilla",
+  "homepage": "https://github.com/Chart3JS/nodebb-theme-music",
   "_id": "nodebb-theme-vanilla@1.0.132",
   "dist": {
     "shasum": "4a456d6ba24e75967f8b4546b65593b06bd790c5",

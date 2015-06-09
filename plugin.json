@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-vanilla",
+	"id": "nodebb-theme-music",
 	"library": "./lib/theme.js",
 	"hooks": [
 		{
@@ -7,6 +7,6 @@
 		}
 	],
 	"scripts": [
-		"lib/vanilla.js"
+		"lib/music.js"
 	]
 }

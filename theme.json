@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-vanilla",
-    "name": "NodeBB Vanilla",
-    "description": "Vanilla Theme for NodeBB",
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla",
+    "id": "nodebb-theme-music",
+    "name": "NodeBB Music",
+    "description": "Music Theme for NodeBB",
+    "url": "https://github.com/Chart3JS/nodebb-theme-music",
     "screenshot": "screenshot.png"
 }
