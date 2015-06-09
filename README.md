@@ -1,4 +1,4 @@
-nodebb-theme-vanilla
+nodebb-theme-music
 ====================
 
-Vanilla theme for NodeBB based on Bootstrap. Perfect for starting your own NodeBB themes!
+Music theme for NodeBB based on Bootstrap. Perfect for starting your own NodeBB themes!
